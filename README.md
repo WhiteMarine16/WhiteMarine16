@@ -23,7 +23,8 @@ Welcome to my GitHub profile! I am a developer learning and exploring new techno
   
 ## 📈 GitHub Stats
 
-![WhiteMarine16's GitHub stats](https://github-readme-stats-alpha-steel-68.vercel.app/api?username=WhiteMarine16&show_icons=true&theme=radical)
+[![WhiteMarine16's GitHub stats](https://github-readme-stats-alpha-steel-68.vercel.app/api?username=WhiteMarine16&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 Thanks for visiting my profile! Have a great day! 😊
 <!---
