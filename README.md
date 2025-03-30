@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I am a developer learning and exploring new techno
 - 🌱 
 - 👯 
 - 🤔 
-- 💬 Ask me about Python 
+- 💬 Ask me about  
 - 📫 
 - ⚡ Fun fact: 
 
